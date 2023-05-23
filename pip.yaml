@@ -1,9 +1,9 @@
 ---
 python3-ultralytics-pip:
   ubuntu:
-      pip:
-          packages: [ultralytics]
+    pip:
+      packages: [ultralytics]
 python3-numpy-pip:
   ubuntu:
     pip:
-      packages: [ultralytics]
+      packages: [numpy>=1.20]
